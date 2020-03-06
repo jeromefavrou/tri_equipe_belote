@@ -1,0 +1,64 @@
+Tour 1
+	test vs test17
+	test10 vs test18
+	test11 vs test16
+	test12 vs test19
+	test13 vs test20
+	test14 vs test21
+	test15 vs test22
+	test23 vs test9
+	test24 vs test8
+	test25 vs test7
+	test26 vs test5
+	test27 vs test4
+	test28 vs test3
+	test6 vs tet1
+
+Tour 2
+	test vs test16
+	test10 vs test17
+	test11 vs test18
+	test12 vs test20
+	test13 vs test19
+	test14 vs test15
+	test21 vs test22
+	test23 vs test8
+	test24 vs test9
+	test25 vs test6
+	test26 vs test7
+	test27 vs test5
+	test28 vs test4
+	test3 vs tet1
+
+Tour 3
+	test vs test18
+	test10 vs test16
+	test11 vs test17
+	test12 vs test15
+	test13 vs test21
+	test14 vs test20
+	test19 vs test22
+	test23 vs test24
+	test25 vs test9
+	test26 vs test6
+	test27 vs test7
+	test28 vs test5
+	test3 vs test8
+	test4 vs tet1
+
+Tour 4
+	test vs test15
+	test10 vs test19
+	test11 vs test20
+	test12 vs test17
+	test13 vs test18
+	test14 vs test16
+	test21 vs test9
+	test22 vs test23
+	test24 vs test7
+	test25 vs test8
+	test26 vs test4
+	test27 vs test6
+	test28 vs tet1
+	test3 vs test5
+
